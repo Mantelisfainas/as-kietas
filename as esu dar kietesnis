@@ -1,4 +1,4 @@
-                                local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/aWXiZJue", true))()
+                                local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mantelisfainas/as-kietas/main/as%20kietas%20esu", true))()
                             Aiming.TeamCheck(false)
                              
                             
